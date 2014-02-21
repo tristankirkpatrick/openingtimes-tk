@@ -1,6 +1,6 @@
 {
-  "name": "openingtimes",
-  "version": "0.0.1",
+  "name": "node-example",
+  "version": "0.0.0",
   "description": "first test",
   "main": "web.js",
   "scripts": {
@@ -14,12 +14,13 @@
     "test"
   ],
   "author": "tristan kirkpatrick",
-  "license": "bsd",
+  "license": "BSD",
   "bugs": {
     "url": "https://github.com/tristan1990/openingtimes-tk/issues"
   },
   "dependencies": {
     "express": "~3.4.8",
     "logfmt": "~0.21.0"
-  }
+  },
+  "devDependencies": {}
 }
